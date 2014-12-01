@@ -52,17 +52,7 @@ Subslide:
 ###6. Disponibilidad a largo plazo
 
 >Nada asegura que una aplicación privativa determinada deje de recibir soporte en algun momento
-
-
 Subslide:
-##Pros
-###7. Soberanía/Autonomía teconológica
->Control total de los sistemas teconológicos sin intervencionismo externo
-
->Impulso de creación y avance tecnológico en software
-
-Subslide:
-
 ##Contras
 ###1. Desconocimiento y falta de voluntad política
 >Falta de información**(El único beneficio no es el costo)**, falta de interés por implementar políticas alternativas como las de software libre
@@ -229,8 +219,6 @@ Subslide:
 > Es necesario integrar los esfuerzos
 
 > Apoyar proyectos e iniciativas 
-
->Sitio hacker en función de estos objetivos
 
 >Seguir insistiendo
 
