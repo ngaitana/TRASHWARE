@@ -12,7 +12,9 @@
 		<a href="?theme=solarized#/themes">Solarized</a>
 	</p>
 </section>
-  
+
+Slide:
+
 #Migración a Software Libre
 ##¿Porqué migrar a software libre?
 ##Iniciativas en gobiernos
