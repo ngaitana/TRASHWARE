@@ -1,3 +1,4 @@
+<!-- configuracion de colores es opcional pero ultil-->
 <section id="themes">
 	<h2>Configuración de temas</h2>
 	<p>
@@ -15,246 +16,276 @@
 
 Slide:
 
-#Migración a Software Libre
-##¿Porqué migrar a software libre?
-##Iniciativas en gobiernos
-##Iniciativas en universidades
-##Panorama y perspectivas para la UN
+# TRASHWARE
+
+Nicolás Gaitán Albarracín
+
+**Ingenio Sin Fronteras**
+
 
 Slide:
 
-<img height="600" src="fig/puntos.png">
-
-Slide: 
-
-#¿Por qué migrar a software libre?
-##Pros
-##Y
-##Contras
-
-<img height="200" src="fig/pros.png">
-
-Subslide:
-
-##Pros
-###1. Aprovechamiento adecuado de los recursos
-
->Usar costos de las licencias en mejoramiento de la calidad del servicio de software
-
-###2. Fomento del desarrollo local
-
->Promuebe el desarrollo local de software
-
-Subslide:
-##Pros
-###3. Independencia del proveedor
-
->No hay proveedor que imponga condiciones
-
-
-###4. Adaptación del software a necesidades concretas
-
-
->Al contar con código abierto el software puede ser modificado específicamente para las necesidades de la organización 
->>eg. SIA
-
-Subslide:
-##Pros
-###5. Seguridad
-
->Para una organización, especialmente para una organización pública es indispensable saber qué hacen exactamente sus sistemas, y garantizar con certeza la seguridad 
-
-###6. Disponibilidad a largo plazo
-
->Nada asegura que una aplicación privativa determinada deje de recibir soporte en algun momento
-
-
-Subslide:
-##Pros
-###7. Soberanía/Autonomía teconológica
->Control total de los sistemas teconológicos sin intervencionismo externo
-
->Impulso de creación y avance tecnológico en software
-
-Subslide:
-
-##Contras
-###1. Desconocimiento y falta de voluntad política
->Falta de información**(El único beneficio no es el costo)**, falta de interés por implementar políticas alternativas como las de software libre
->>Creación de mitos falsos al rededor del software libre: Software comunista, Software para pobres, etc.
-
-Subslide:  
-##Contras  
-###2. Poca adecuación de los mecanismos de contratación  
->Modelos de contratación diseñados para que las organizaciones se limiten en la adquisición de productos y no en la creación de los mismos.
->>El software libre incentiva la adquisición de software como servicio y no como producto
-
-Subslide:
-##Contras
-
-###3. Falta de estrategias de implementación
->En muchas ocaciones no se tiene en cuenta la integracióny adaptación del software libre con la organización y sólo se busca reducir gastos.
-
-
-###4. Escasez o ausencia de productos libres para áreas específicas
->Muchas veces no existen aplicaciones libres con funcionalidades específicas o cuando existen en ocaciones cuentan con calidad inferior a las privativas
-
-Slide: 
-#Iniciativas en 
-#gobiernos
-
-<img height="400" src="fig/gobierno.jpg">
-
-Subslide: 
-##Venezuela
-
->-En Venezuela El uso de osftware libre es una norma en institutos del estado
-
-
-
-
->**Criterios Para la migración:**
->>1. Control de la información
->>2. Desarrollo de la industria de softwar nacional
->>3. Desarrollo y pertinencia social
-
-
-
->-Se desarrolló una distribución de linux venezolana llamada [Canaima](http://canaima.softwarelibre.gob.ve/ )
-Subslide:
-##Brasil
-###Criterios adicionales:
-
->>1. Macroeconomía
->>2. Socialización de la información
-
-###Avances:
->>1. Telecentros de San Pablo
->>2. Playas de petróleo
->>3. Frente parlamentario por el software libre y la inclusión digital
-
-Subslide:
-##España
-####Gran variedad de normas legislativas referentes al software libre:
->1. Decreto de medidas de impulso de la sociedad del conocimiento(Andalucía)
->2. Poposición de ley de software libre en el marco de la administración pública(Cataluña)
->3. Proyecto de ley de puigncercós Boixassa en el COngreso de los Diputados 
- 
->>###Distribuciones españolas
-
->>>1. Lliurex
->>>2. Gundalinex
-
-Slide:
-#Iniciativas en   
-#Universidades
-
-<img height="400" src="fig/universidad.jpeg">
-
-Subslide: 
-##Las universidades españolas llevan la vanguardia
-
-> Universidad de Cadiz
-
- > Universidad de Granada
-  
- > Universidad de La Laguna
-  
- > Universidad de Coruña
-  
-  >Universidad de Sevilla
-  
-
-Subslide:
-
-##Elementos tenidos en cuenta para la migración
->1. Identificar niveles de dificultad de migración en las diferentes áreas, para establecer diferentes estrategias y tiempos.
->2. Potenciar el uso de software libre en la docencia, en las aulas y en la investigación. 
->3. Promover cursos, congresos y campañas de información sobre las implicaciones y ventajas del uso de software libre.
->4. Impulsar la elaboración de  de material con licencias libres por parte de alumnos.
-
-
-Subslide:
-
-##Elementos tenidos en cuenta para la migración
->5. Ofrecer incentivos al personal del área de informática para que inicien o apoyen proyectos relacionados con el software libre.
->6. Fomentar la colaboración con instituciones y organizaciones externas a la universidad relacionadas con el desarrollo de software libre.
->7. Crear una distribución adaptada a la institución y distribuirla apliamente entre su comunidad.
->8. Garantizar que todo el hardware que adquiera la universidad sea compatible con software libre.
->9. Promocionar empresas locales desarrolladoras de software libre o con la libre difusión de conocimiento.
-
-Subslide: 
-
-[Ranking universidades españolas que más apoyan el software libre](http://www.portalprogramas.com/software-libre/ranking-universidades/clasificacion)
+<img height="400" src="fig/Cazuca.jpg">
 
 Slide:
 
-#¿Y la Universidad   
-#Nacional de 
-#Colombia?
+# CONTENIDO
+
+## Antecedentes
+## Justificación
+## Contexto
+## Marco Conceptual
+## ...
 
 Subslide:
 
-##DNIC
-Dirección Nacional de Informática y Comunicaciones
->##[Acuerdo 046 2009- CSU](http://www.unal.edu.co/secretaria/normas/csu/2009/A0046_09S.pdf "Title")
-**artículo 4:** "1. El Comité Nacional de Informática y Comunicaciones estimulará la apropiación y el uso
-de herramientas de software libre como apoyo al componente misional y administrativo
-de la Universidad."
+# CONTENIDO
+## ...
+## Software Libre
+## Metodología
+## Aprendizajes
+## Proyecciones
+## Referencias
 
-Otro documento de la DNIC sobre [Software Libre](http://www.dnic.unal.edu.co/docts/SOFTWARE_LIBRE.pdf)
+Slide:
+## Antecedentes
+
+<img height="600" src="fig/Ingeino Sin Fronteras.jpg">
+
+Subslide:
+## Antecedentes como grupo
+
+* Tunjuelito aguas.
+* Shitake Guasca.
+* Computadores para educar.
+* Jornadas de instalación de SL en la UNAL.
+
+Subslide:
+## Antecedentes como proyecto
+
+<img height="400" src="fig/LaptopOLPC_a.jpg">
+
+* Computadores para educar.
+* One laptop per child.
+* Greenetics, tecnología verde para educar - Plan piloto en el colegio Manuela Cañizares, Quito, Ecuador, 2014.
+
+
+Slide:
+
+## Justificación
+
+<img height="300" src="fig/Ewaste-delhi.jpg">
+
+Subslide:
+
+## Justificación
+
+* El uso y el usufructo de herramientas tecnológicas son una alternativa en los procesos de dignificación de la existencia, tanto individual como colectiva, del ser humano en la actualidad.
+* Brecha digital.
+* Concientización ambiental
+* Inclusión tencológica
+* Logicas de consumismo.
+* Adopción de competencias para el desarrollo personal que le abran nuevos horizontes sociales, académicos y económicos.
+
+
+
+Slide:
+## Contexto
+
+<img height="400" src="fig/SDC10192.JPG">
+
+Subslide:
+## Contexto
+
+<img height="400" src="fig/Sancocho.JPG">
+
+Subslide:
+## Contexto
+* Altos de Cazuca en el municipio de Soacha.
+* Escuela Popular Fe y Esperanza.
+* 100 estudiantes y sus familias (aprox.).
+* 4 profesores de planta.
+* Instalaciones aceptables.
+* Acceso limitado a fuentes de agua potable y servicios de slaud.
+* Inseguridad alimentaria.
+* Deficiente condiciones de saneamiento
+
 
 
 Subslide:
-##DNIC
+## Contexto
 
->Costos aproximados anuales de licenciamiento
+* Desplazamiento forzado (+30 años)
+* Tolima, Meta, Antioquia, Caquetá, Cundinamarca, Santander.
+* Rompimiento de lazos afectivos con su entorno socio espacial.
+* Nuevios fenómenos de violencia.
 
->>-Total al rededor de $1000 millones 
 
->>-Microsoft Campus Agreement $600 millones
+Slide:
+# Marco Conceptual
 
->>-SIA $300 millones 
+Subslide:
+## Brecha digital 
 
-##   
->Directrices
->>[Directriz técnica No. 4- 2013 ](http://www.dnic.unal.edu.co/directrices/Generales/DIRECTRIZ_TECNICA_%20No_%204.pdf "Title")
->>[Directriz técnica No. 10- 2013 ](http://www.dnic.unal.edu.co/directrices/Generales/DIRECTRIZ_TECNICA_%20No_%2010.pdf "Title")
+Se define como la separación que existe entre las personas (comunidades, estados, países...) que utilizan las tecnologías de la información y comunicación como una parte rutinaria de su vida diaria y aquéllas que no tienen acceso a las mismas y que aunque las tengan no saben cómo utilizarlas.
+
+Subslide:
+## Obsolescencia programada 
+
+<img height="350" src="fig/tumblr_mfvgtc2EON1qcnn8do1_500.jpg">
+
+Subslide:
+## Obsolescencia programada 
+Se refiere al reemplazo de tecnología en periodos cortos de tiempo, gracias a un impulso del mercado orientado al consumo de elementos tecnológicos, específicamente hardware y software.
+
+Subslide:
+## E-waste
+
+<img height="350" src="fig/1024px-E-Waste_in_the_Alley_(Silver_Spring,_MD).jpg">
+
+Subslide:
+## E-waste
+
+* Consumo compulsivo genera brutales cantidades de desechos cada año, sobre todo de productos electrónicos, lo que se ha dado en llamar “basura electrónica” (e-waste). 
+
+* En enormes pilas se acumulan, muchos de ellos aún funcionando, y son irresponsablemente exportados a países pobres, de África o de Asia.
+
+*Arsenio, cromo, cadmio, berilio, selenio...
 
 Subslide:
 
-##Problemas del software libre en la UN
-> Discontinuidad en los proyectos
+## Empoderamiento 
 
-> Poca voluntad de las directivas
-
-> No cumplimiento de la normativa
-
-> Sistema de [contratación](http://www.dnic.unal.edu.co/docts/manual_de%20convenios%20y%20contratos%202009.pdf) adverso 
-
+<img height="350" src="fig/sen.jpeg">
 
 Subslide:
 
-##¿Hacia dónde va el proyecto?
+## Empoderamiento 
 
->Profundizar en aspectos técnicos,  viabilidad y utilidad y beneficios de la migración
+"Una forma de pensar sobre el empoderamiento es como la capacidad para la autosuficiencia (es decir, lo contrario de la dependencia): "La dependencia de los demás es que no sólo es éticamente problemático, también es prácticamente derrotista en minando la iniciativa y el esfuerzo individual, e incluso auto-respeto. ¿Quién mejor que depender de uno mismo para cuidar de los intereses y los problemas de uno? "(Sen, 2001, p. 283).
 
-> El problema es técnico, de fuerza y de convencimiento
+Subslide:
 
-> Es necesario integrar los esfuerzos
+## Empoderamiento tecnológico
 
-> Apoyar proyectos e iniciativas 
+<img height="300" src="fig/castells.jpeg">
 
->Sitio hacker en función de estos objetivos
+Subslide:
 
->Seguir insistiendo
+## Empoderamiento tecnológico
+
+"Sin embargo, es sólo cuando las nuevas tecnologías de la información y de la comunicación facultan a la humanidad con la capacidad incesante para alimentar el conocimiento nuevo en el conocimiento, la experiencia en la experiencia, que no es, al mismo tiempo, el potencial de productividad sin precedentes, y una especialmente estrecha relación entre la actividad de la mente, por una parte, y la producción material, ya sea de bienes o servicios, en el otro '(Castells, 1999, p. 11​​).
+
+Slide:
+# Software Libre
+
+Subslide:
+## Edubuntu
+
+* Destinada para su uso en ambientes escolares.
+* Aplicaciones educativas como GCompris y la KDE Edutainment Suite.
+
+Subslide:
+## GCompris
+
+<img height="300" src="fig/440px-Edubuntu_logo.svg.png">
+
+* Actividades para niños entre 2 y 10 años de edad.
+* Videojuegos educativos. 
+* Iniciarse en el manejo de una computadora.
+
+Subslide:
+
+<img height="300" src="fig/Gcompris_screenshots.png">
+
+Subslide:
+## KDE Edutainment
+
+* Lenguajes: Kanagra,KHangMan, Kiten, KLatin, KLettres, KVerbos 
+* Matemáticas. KBruch, Kig, KmPlot, KPercentage.
+* Varios: KGeography, KTouch KTurtle, KWordQuiz. 
+* Ciencia. Kalzium, KStars. 
+
+Subslide:
+
+ <img height="700" src="fig/kdeedu.jpg">
+
+Subslide:
+##Canaima
+
+<img height="250" src="fig/canaimalinux(1).png">
+
+Subslide:
+##Canaima
+
+* Proyecto socio-tecnológico abierto, construido de forma colaborativa, centrado en el desarrollo de herramientas y modelos productivos basados en las TIC con SL 
+* Sistemas operativos cuyo objetivo es generar capacidades nacionales, desarrollo endógeno, apropiación y promoción del libre conocimiento, sin perder su motivo original.
+* Impulsa grandes proyectos nacionales tanto a nivel público como privado, entre los que se encuentran el Proyecto Canaima Educativo, el Plan Internet equipado de CANTV, entre otros.
+
+
+Subslide:
+##Covencionales
+
+<img height="250" src="fig/distribuciones.png">
+
+
+Slide:
+## Metodología
+
+* Metametodología.
+* Human Centered Design (HCD) 
+
+* Creative Capacity Building (CCB)
+La capacidad inherente de las personas a ser solucionadores creativos de sus problemas e instrumentos de su propio progreso.
+
+
+Slide:
+## Aprendizajes
+
+* No se hizo una adecuada gestión del riesgo.
+* Multiples dificultades en la ejecución de presupuestos  de la UNAL.
+* Excesiva flexibilidad en los contenidos.
+* Poca focalización de publico objetivo.
+* Ausencia de trans-interdisciplaridad.
+* Limitaciones en las ventajas asociadas al SL.
+* Baja continuidad de asistentes.
+
+Slide:
+## Proyecciones
+
+Diagnostico Actual
+
+* Estado de las instalaciones.
+* Estado de los equipos (SO, Software; Hardware, localización, etc).
+* Evaluación de stakeholders.
+* Nueva convocatoria ainteresados.
+* Dinámica social.
+
+Subslide:
+## Proyecciones
+
+Diagnostico Actual
+* Actores e intereses en la escuela.
+* Re-diseño metodológico.
+* Recursos disponibles (Guías, presupuesto, RH, etc).
+* Generación de línea base y batería de indicadores.
+* Evaluación de comunidad objetivo y evalución tecnica de mejor solución de software.
 
 
 
 
+Slide:
+## Referencias
 
+* Castro, Mayorga, Vargas Marín.2012. Informe Final “Trashware 2.0”  
 
+* Romero, Martine, Gaitan, Huertas2011.Primera Convocatoria Nacional de Extensión Solidaría Universidad Nacional de Colombia:Apuestas para construir país Proyecto TRASHWARE
 
+* Heinz, F. (2006). ¿Qué tiene que ver Software Libre con educación? In B. Busaniche (Ed.), Prohibido Pensar, Propiedad Privada. Los monopolios sobre la vida, el conocimiento y la cultura. Cordoba: Fundación Via Libre. 
 
+* Martínez , J. H. (2010). La inteligencia de negocios como herramienta para la toma de decisiones estratégicas en las empresas. Análisis de su aplicabilidad en el contexto corporativo colombiano. . Maestría en Administración, Universidad Nacional de Colombia, Bogotá. Retrieved from http://www.bdigital.unal.edu.co/3098/1/940607.2010a.pdf  
 
+* Salgado, A. (2011). Obsolecencia programada, deloberado acto de disenar productos que fallen pronto, incrementar el desperdicio y destruir y envenenar el medio ambiente. , from http://www.argenpress.info/2011/11/obsolescencia-programada-deliberado.html
+
+* Serrano, A., & Martínez, E. (2003). La brecha digital: Mitos y realidades. Baja California: Departamento Editorial Universitaria de la Universidad Autónoma de Baja California.
 
